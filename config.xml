@@ -2,10 +2,10 @@
 <widget id="org.guamcontractors.direct" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>GCA Directory</name>
     <description>
-        Guam Contractors Association - Contractor Directory
+        Guam Contractors Association - Members Directory
     </description>
     <author email="dev@leaddesign.com" href="http://leaddesign.com">
-        Lead Design
+        LeadDesign
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
